@@ -73,7 +73,7 @@ greatly expanded test suite. See the commit history for the full set.
 - Clipboard integration
   - Text (of any kind) is supported
   - Clips marked **sensitive** (e.g. password-manager / autofill copies) are **not** relayed to the server
-  - __Bitmap is **NOT** supported currently, but is next on the list__
+  - ~~Bitmap~~ — **not planned by me**: I use [CrossPaste](https://github.com/CrossPaste/crosspaste-desktop) for image clipboard sync, so I personally don't need it. A self-contained feature if someone wants to pick it up — PRs welcome.
 - Simple gesture support
   - Pull down on the status bar
   - Pull up for all apps, etc
